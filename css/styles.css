@@ -1,15 +1,18 @@
-h1 {
-    color: blue;
-    text-align: center;
-  }
-  h2 {
-    color: green;
-    font-style: italic;
-    text-align: center;
-  }
-  p {
-    font-family: sans-serif;
-  }
-  ul {
-    line-height: 40px;
-  }
+.cats p {
+  background-color: coral;
+}
+.dogs p {
+  background-color: steelblue;
+}
+.cats p a {
+  font-weight: bold;
+}
+.dogs p a {
+  font-style: italic;
+}
+.dogs p a {
+  font-weight: bold;
+}
+a {
+  font-weight: normal;
+}
